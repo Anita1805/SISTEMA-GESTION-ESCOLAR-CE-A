@@ -1,0 +1,467 @@
+{
+    "asignaciones": [
+        {
+            "id_asignacion": 1,
+            "docente_id": 1,
+            "nivel_id": 3,
+            "grado_id": 9,
+            "materia_id": 5,
+            "fyh_creacion": "2024-01-23 10:44:32",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 3,
+            "docente_id": 1,
+            "nivel_id": 3,
+            "grado_id": 10,
+            "materia_id": 5,
+            "fyh_creacion": "2024-01-23 11:04:16",
+            "fyh_actualizacion": "2024-01-23 15:40:40",
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 9,
+            "docente_id": 1,
+            "nivel_id": 3,
+            "grado_id": 11,
+            "materia_id": 5,
+            "fyh_creacion": "2024-01-23 16:51:06",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 10,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 1,
+            "materia_id": 1,
+            "fyh_creacion": "2026-04-28 19:41:04",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 11,
+            "docente_id": 5,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 15,
+            "fyh_creacion": "2026-05-06 19:25:35",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 12,
+            "docente_id": 5,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 16,
+            "fyh_creacion": "2026-05-06 19:25:35",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 13,
+            "docente_id": 6,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 17,
+            "fyh_creacion": "2026-05-06 19:25:35",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 14,
+            "docente_id": 7,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 18,
+            "fyh_creacion": "2026-05-06 19:32:21",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 15,
+            "docente_id": 7,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 19,
+            "fyh_creacion": "2026-05-06 19:32:21",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 16,
+            "docente_id": 8,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 20,
+            "fyh_creacion": "2026-05-06 19:32:21",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 17,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 24,
+            "fyh_creacion": "2026-05-06 21:44:11",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 18,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 25,
+            "fyh_creacion": "2026-05-06 21:44:40",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 19,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 26,
+            "fyh_creacion": "2026-05-06 21:45:37",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 20,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 27,
+            "fyh_creacion": "2026-05-06 21:45:50",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 21,
+            "docente_id": 4,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 28,
+            "fyh_creacion": "2026-05-06 21:46:12",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 22,
+            "docente_id": 3,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 29,
+            "fyh_creacion": "2026-05-06 21:46:38",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 24,
+            "docente_id": 4,
+            "nivel_id": 1,
+            "grado_id": 16,
+            "materia_id": 30,
+            "fyh_creacion": "2026-05-06 21:47:19",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 25,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 25,
+            "materia_id": 47,
+            "fyh_creacion": "2026-05-06 21:48:31",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 27,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 25,
+            "materia_id": 32,
+            "fyh_creacion": "2026-05-06 21:49:18",
+            "fyh_actualizacion": "2026-05-06 21:52:26",
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 28,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 25,
+            "materia_id": 45,
+            "fyh_creacion": "2026-05-06 21:49:36",
+            "fyh_actualizacion": "2026-05-06 21:52:34",
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 29,
+            "docente_id": 4,
+            "nivel_id": 2,
+            "grado_id": 17,
+            "materia_id": 31,
+            "fyh_creacion": "2026-05-06 21:50:15",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 30,
+            "docente_id": 4,
+            "nivel_id": 2,
+            "grado_id": 17,
+            "materia_id": 36,
+            "fyh_creacion": "2026-05-06 21:51:12",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 31,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 27,
+            "materia_id": 47,
+            "fyh_creacion": "2026-05-06 21:51:36",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 32,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 27,
+            "materia_id": 32,
+            "fyh_creacion": "2026-05-06 21:52:08",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 33,
+            "docente_id": 5,
+            "nivel_id": 3,
+            "grado_id": 27,
+            "materia_id": 48,
+            "fyh_creacion": "2026-05-06 21:53:08",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 34,
+            "docente_id": 6,
+            "nivel_id": 3,
+            "grado_id": 23,
+            "materia_id": 34,
+            "fyh_creacion": "2026-05-07 08:53:40",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 35,
+            "docente_id": 6,
+            "nivel_id": 3,
+            "grado_id": 27,
+            "materia_id": 44,
+            "fyh_creacion": "2026-05-07 08:54:20",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 36,
+            "docente_id": 6,
+            "nivel_id": 3,
+            "grado_id": 24,
+            "materia_id": 34,
+            "fyh_creacion": "2026-05-07 08:54:56",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 37,
+            "docente_id": 6,
+            "nivel_id": 2,
+            "grado_id": 21,
+            "materia_id": 34,
+            "fyh_creacion": "2026-05-07 08:56:00",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 38,
+            "docente_id": 6,
+            "nivel_id": 1,
+            "grado_id": 19,
+            "materia_id": 34,
+            "fyh_creacion": "2026-05-07 08:57:11",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 39,
+            "docente_id": 7,
+            "nivel_id": 3,
+            "grado_id": 26,
+            "materia_id": 43,
+            "fyh_creacion": "2026-05-07 08:59:14",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 40,
+            "docente_id": 7,
+            "nivel_id": 3,
+            "grado_id": 27,
+            "materia_id": 43,
+            "fyh_creacion": "2026-05-07 09:01:16",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 41,
+            "docente_id": 7,
+            "nivel_id": 2,
+            "grado_id": 21,
+            "materia_id": 33,
+            "fyh_creacion": "2026-05-07 09:01:44",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        },
+        {
+            "id_asignacion": 42,
+            "docente_id": 7,
+            "nivel_id": 3,
+            "grado_id": 23,
+            "materia_id": 42,
+            "fyh_creacion": "2026-05-07 09:02:16",
+            "fyh_actualizacion": null,
+            "estado": "1"
+        }
+    ],
+    "horarios": [
+        {
+            "id_horario": 7,
+            "grado_id": 16,
+            "materia_id": 24,
+            "docente_id": 3,
+            "dia_semana": "LUNES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:15:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:16:01"
+        },
+        {
+            "id_horario": 8,
+            "grado_id": 16,
+            "materia_id": 28,
+            "docente_id": 4,
+            "dia_semana": "LUNES",
+            "hora_inicio": "11:00:00",
+            "hora_fin": "12:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:17:36"
+        },
+        {
+            "id_horario": 9,
+            "grado_id": 16,
+            "materia_id": 25,
+            "docente_id": 3,
+            "dia_semana": "MARTES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:15:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:18:23"
+        },
+        {
+            "id_horario": 10,
+            "grado_id": 16,
+            "materia_id": 30,
+            "docente_id": 4,
+            "dia_semana": "MARTES",
+            "hora_inicio": "11:00:00",
+            "hora_fin": "00:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:19:08"
+        },
+        {
+            "id_horario": 12,
+            "grado_id": 16,
+            "materia_id": 25,
+            "docente_id": 3,
+            "dia_semana": "MIERCOLES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:20:43"
+        },
+        {
+            "id_horario": 13,
+            "grado_id": 16,
+            "materia_id": 26,
+            "docente_id": 3,
+            "dia_semana": "MIERCOLES",
+            "hora_inicio": "11:00:00",
+            "hora_fin": "12:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:21:23"
+        },
+        {
+            "id_horario": 18,
+            "grado_id": 16,
+            "materia_id": 27,
+            "docente_id": 3,
+            "dia_semana": "JUEVES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:26:27"
+        },
+        {
+            "id_horario": 19,
+            "grado_id": 16,
+            "materia_id": 28,
+            "docente_id": 4,
+            "dia_semana": "JUEVES",
+            "hora_inicio": "11:00:00",
+            "hora_fin": "12:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:27:29"
+        },
+        {
+            "id_horario": 20,
+            "grado_id": 16,
+            "materia_id": 29,
+            "docente_id": 3,
+            "dia_semana": "VIERNES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:28:10"
+        },
+        {
+            "id_horario": 21,
+            "grado_id": 16,
+            "materia_id": 25,
+            "docente_id": 3,
+            "dia_semana": "VIERNES",
+            "hora_inicio": "08:15:00",
+            "hora_fin": "10:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:28:58"
+        },
+        {
+            "id_horario": 22,
+            "grado_id": 16,
+            "materia_id": 25,
+            "docente_id": 3,
+            "dia_semana": "VIERNES",
+            "hora_inicio": "11:00:00",
+            "hora_fin": "12:20:00",
+            "estado": "1",
+            "fyh_creacion": "2026-05-06 22:30:18"
+        }
+    ]
+}

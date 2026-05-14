@@ -1,0 +1,142 @@
+/* Custom Sidebar Colors */
+.main-sidebar {
+    background-color: #2c2c2c !important;
+    box-shadow: 5px 0 15px rgba(0,0,0,0.2) !important;
+}
+
+.brand-link {
+    background-color: transparent !important;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+    text-align: center;
+    padding: 20px 10px !important;
+}
+
+.brand-link .brand-image {
+    float: none !important;
+    width: 60px !important;
+    height: auto !important;
+    margin: 0 auto 10px !important;
+    display: block !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #8e1818 !important;
+    color: #fff !important;
+    border-radius: 0 25px 25px 0 !important;
+    margin-right: 10px !important;
+}
+
+/* Submodules highlight */
+.nav-treeview .nav-link.active {
+    background-color: #3d3d3d !important;
+    color: #f1f1f1 !important;
+    border-radius: 0 20px 20px 0 !important;
+    margin-left: 10px !important;
+    border-left: 3px solid #d4a017 !important;
+}
+.nav-treeview .nav-link.active i.nav-icon {
+    font-size: 0.8rem !important;
+}
+
+.nav-sidebar .nav-link p {
+    font-weight: 500;
+}
+
+/* Navbar */
+.main-header {
+    background-color: #d4a017 !important;
+    border: none !important;
+    color: white !important;
+}
+
+.main-header .nav-link {
+    color: white !important;
+}
+
+/* Dashboard Cards and Small Boxes */
+.content-wrapper {
+    background-color: #f4f7f6 !important;
+    position: relative;
+}
+
+.content-wrapper::after {
+    content: '';
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    width: 400px;
+    height: 400px;
+    background: url('../images/logo_real.png') no-repeat center;
+    background-size: contain;
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.small-box {
+    border-radius: 12px !important;
+    background: white !important;
+    color: #333 !important;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05) !important;
+    border: none !important;
+    padding: 15px !important;
+    display: flex !important;
+    align-items: center;
+    gap: 15px;
+}
+
+.small-box .inner {
+    padding: 0 !important;
+    z-index: 2;
+}
+
+.small-box .icon {
+    position: static !important;
+    font-size: 40px !important;
+    color: #8e1818 !important;
+    opacity: 0.8;
+}
+
+.small-box h3 {
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
+    margin: 0 !important;
+}
+
+.small-box p {
+    font-size: 0.9rem !important;
+    color: #777 !important;
+    margin: 0 !important;
+}
+
+.small-box .icon > i {
+    top: 0 !important;
+}
+
+/* Cards */
+.card {
+    border-radius: 15px !important;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05) !important;
+    border: none !important;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: transparent !important;
+    border-bottom: 1px solid #eee !important;
+    padding: 15px 20px !important;
+}
+
+.card-title {
+    font-weight: 700 !important;
+    color: #333 !important;
+}
+
+.btn-primary {
+    background-color: #8e1818 !important;
+    border-color: #8e1818 !important;
+    border-radius: 20px !important;
+    padding: 8px 20px !important;
+}

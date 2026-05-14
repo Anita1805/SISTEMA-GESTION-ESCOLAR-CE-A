@@ -1,0 +1,370 @@
+{
+    "roles": [
+        {
+            "id_rol": 1,
+            "nombre_rol": "ADMINISTRADOR"
+        },
+        {
+            "id_rol": 6,
+            "nombre_rol": "DOCENTE"
+        },
+        {
+            "id_rol": 7,
+            "nombre_rol": "ESTUDIANTE"
+        },
+        {
+            "id_rol": 8,
+            "nombre_rol": "PADRE DE FAMILIA"
+        },
+        {
+            "id_rol": 5,
+            "nombre_rol": "SECRETARIA"
+        }
+    ],
+    "niveles": [
+        {
+            "id_nivel": 1,
+            "nivel": "PREESCOLAR",
+            "turno": "MA\u00d1ANA"
+        },
+        {
+            "id_nivel": 2,
+            "nivel": "PRIMARIA",
+            "turno": "MA\u00d1ANA"
+        },
+        {
+            "id_nivel": 3,
+            "nivel": "SECUNDARIA",
+            "turno": "MA\u00d1ANA"
+        }
+    ],
+    "grados": [
+        {
+            "id_grado": 16,
+            "nivel_id": 1,
+            "curso": "PRESCOLAR 1",
+            "paralelo": "\u00danico"
+        },
+        {
+            "id_grado": 17,
+            "nivel_id": 2,
+            "curso": "Grado 101",
+            "paralelo": "A"
+        },
+        {
+            "id_grado": 18,
+            "nivel_id": 2,
+            "curso": "Grado 201",
+            "paralelo": "A"
+        },
+        {
+            "id_grado": 19,
+            "nivel_id": 2,
+            "curso": "Grado 301",
+            "paralelo": "A"
+        },
+        {
+            "id_grado": 20,
+            "nivel_id": 2,
+            "curso": "Grado 401",
+            "paralelo": "A"
+        },
+        {
+            "id_grado": 21,
+            "nivel_id": 2,
+            "curso": "Grado 501",
+            "paralelo": "A"
+        },
+        {
+            "id_grado": 22,
+            "nivel_id": 3,
+            "curso": "Grado 601",
+            "paralelo": "B"
+        },
+        {
+            "id_grado": 23,
+            "nivel_id": 3,
+            "curso": "Grado 701",
+            "paralelo": "B"
+        },
+        {
+            "id_grado": 24,
+            "nivel_id": 3,
+            "curso": "Grado 801",
+            "paralelo": "B"
+        },
+        {
+            "id_grado": 25,
+            "nivel_id": 3,
+            "curso": "Grado 901",
+            "paralelo": "B"
+        },
+        {
+            "id_grado": 26,
+            "nivel_id": 3,
+            "curso": "Grado 1001",
+            "paralelo": "B"
+        },
+        {
+            "id_grado": 27,
+            "nivel_id": 3,
+            "curso": "Grado 1101",
+            "paralelo": "B"
+        }
+    ],
+    "est_counts": [
+        {
+            "grado_id": 16,
+            "cant": 6
+        },
+        {
+            "grado_id": 17,
+            "cant": 8
+        },
+        {
+            "grado_id": 18,
+            "cant": 1
+        },
+        {
+            "grado_id": 19,
+            "cant": 1
+        },
+        {
+            "grado_id": 20,
+            "cant": 1
+        },
+        {
+            "grado_id": 22,
+            "cant": 1
+        },
+        {
+            "grado_id": 23,
+            "cant": 1
+        },
+        {
+            "grado_id": 24,
+            "cant": 1
+        },
+        {
+            "grado_id": 25,
+            "cant": 1
+        }
+    ],
+    "docentes": [
+        {
+            "id_docente": 3,
+            "nombres": "Juan",
+            "apellidos": "Perez"
+        },
+        {
+            "id_docente": 4,
+            "nombres": "Andres",
+            "apellidos": "Vanegas"
+        },
+        {
+            "id_docente": 5,
+            "nombres": "Albert",
+            "apellidos": "Einstein"
+        },
+        {
+            "id_docente": 6,
+            "nombres": "Diego Mauricio",
+            "apellidos": "Solorzano "
+        },
+        {
+            "id_docente": 7,
+            "nombres": "Marie",
+            "apellidos": "Curie"
+        },
+        {
+            "id_docente": 8,
+            "nombres": "Gabriel",
+            "apellidos": "Garcia"
+        },
+        {
+            "id_docente": 9,
+            "nombres": "Juan",
+            "apellidos": "Soto"
+        },
+        {
+            "id_docente": 10,
+            "nombres": "Dahiana",
+            "apellidos": "Rivera"
+        },
+        {
+            "id_docente": 11,
+            "nombres": "carlos",
+            "apellidos": "flores"
+        },
+        {
+            "id_docente": 12,
+            "nombres": "camilo",
+            "apellidos": "fuentes"
+        },
+        {
+            "id_docente": 13,
+            "nombres": "Milton",
+            "apellidos": "Fierro"
+        },
+        {
+            "id_docente": 14,
+            "nombres": "Jorge",
+            "apellidos": "Rivera"
+        },
+        {
+            "id_docente": 15,
+            "nombres": "Dahiana ",
+            "apellidos": "Rivera"
+        },
+        {
+            "id_docente": 16,
+            "nombres": "carlos",
+            "apellidos": "flores"
+        },
+        {
+            "id_docente": 17,
+            "nombres": "Rosa",
+            "apellidos": "Benitez"
+        },
+        {
+            "id_docente": 18,
+            "nombres": "Jos\u00e9 ",
+            "apellidos": "Soto"
+        },
+        {
+            "id_docente": 19,
+            "nombres": "Francy",
+            "apellidos": "Lopez"
+        },
+        {
+            "id_docente": 20,
+            "nombres": "Jorge",
+            "apellidos": "Gomez"
+        },
+        {
+            "id_docente": 21,
+            "nombres": "Cristian",
+            "apellidos": "Gil"
+        },
+        {
+            "id_docente": 22,
+            "nombres": "Camilo",
+            "apellidos": "Murcia"
+        },
+        {
+            "id_docente": 23,
+            "nombres": "Paula",
+            "apellidos": "Perdomo"
+        }
+    ],
+    "materias": [
+        {
+            "id_materia": 24,
+            "nombre_materia": "Dimensiones del desarrollo infantil"
+        },
+        {
+            "id_materia": 25,
+            "nombre_materia": "Motricidad fina y gruesa"
+        },
+        {
+            "id_materia": 26,
+            "nombre_materia": "Prelectura y preescritura"
+        },
+        {
+            "id_materia": 27,
+            "nombre_materia": "Pensamiento l\u00f3gico-matem\u00e1tico"
+        },
+        {
+            "id_materia": 28,
+            "nombre_materia": "Expresi\u00f3n art\u00edstica"
+        },
+        {
+            "id_materia": 29,
+            "nombre_materia": "Juego y exploraci\u00f3n del entorno"
+        },
+        {
+            "id_materia": 30,
+            "nombre_materia": "Valores y convivencia"
+        },
+        {
+            "id_materia": 31,
+            "nombre_materia": "Lengua Castellana"
+        },
+        {
+            "id_materia": 32,
+            "nombre_materia": "Matem\u00e1ticas "
+        },
+        {
+            "id_materia": 33,
+            "nombre_materia": "ciencias naturales"
+        },
+        {
+            "id_materia": 34,
+            "nombre_materia": "Ciencias Sociales"
+        },
+        {
+            "id_materia": 35,
+            "nombre_materia": "Ingles"
+        },
+        {
+            "id_materia": 36,
+            "nombre_materia": "Educaci\u00f3n Artistica"
+        },
+        {
+            "id_materia": 37,
+            "nombre_materia": "Educaci\u00f3n F\u00edsica"
+        },
+        {
+            "id_materia": 38,
+            "nombre_materia": "Etica y valores"
+        },
+        {
+            "id_materia": 39,
+            "nombre_materia": "Inform\u00e1tica"
+        },
+        {
+            "id_materia": 40,
+            "nombre_materia": "Religion"
+        },
+        {
+            "id_materia": 41,
+            "nombre_materia": "Biologia"
+        },
+        {
+            "id_materia": 42,
+            "nombre_materia": "Fisica"
+        },
+        {
+            "id_materia": 43,
+            "nombre_materia": "Quimica"
+        },
+        {
+            "id_materia": 44,
+            "nombre_materia": "Filosofia"
+        },
+        {
+            "id_materia": 45,
+            "nombre_materia": "Geometria"
+        },
+        {
+            "id_materia": 46,
+            "nombre_materia": "Robotica"
+        },
+        {
+            "id_materia": 47,
+            "nombre_materia": "Estad\u00edstica"
+        },
+        {
+            "id_materia": 48,
+            "nombre_materia": "Preparaci\u00f3n Pruebas Saber"
+        },
+        {
+            "id_materia": 49,
+            "nombre_materia": "Sentido de vida"
+        },
+        {
+            "id_materia": 50,
+            "nombre_materia": "Emprendimiento"
+        }
+    ]
+}
